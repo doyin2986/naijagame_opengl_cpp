@@ -1,6 +1,14 @@
 #  Naija Game
 
-'Naija Game' is a effort to create a game we commonly play in Niaja when growing up. I implemented simple AI based on the computer copying human moves. So the computer gets better at the game as it plays more games.
+'Naija Game' is an effort to create a game we commonly play in Niaja when growing up. Also, I hav been try to refresh my C++ and OpenGL knowledge
+
+---
+
+![screengrab](screengrab?raw=true "screengrab")
+---
+##
+
+The game has a  simple AI based on the computer recording human moves as it plays. So the computer gets better at the game as it plays more games.
 
 ---
 
