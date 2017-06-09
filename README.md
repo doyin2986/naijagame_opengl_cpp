@@ -4,7 +4,7 @@
 
 ---
 
-![screengrab](screengrab?raw=true "screengrab")
+![screengrab](screengrab.png?raw=true "screengrab")
 ---
 ##
 
