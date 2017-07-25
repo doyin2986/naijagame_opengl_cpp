@@ -1,19 +1,21 @@
 #  Naija Game
 
-'Naija Game' is an effort to create a game we commonly play in Niaja when growing up. Also, I have been try to refresh my C++ and OpenGL knowledge
+'Naija Game' is a pice of work I embarked on create a game we commonly play in Niaja while growing up. Also, I have been try to refresh my C++ and OpenGL knowledge, so I thought I'd write a 'game' .
 
 ---
 
+##
+
+The game uses AI technique based on basic machine learning concept; the program plays humans and  records their moves. It then leverages the "learnt" moves as its knowledge base. So the more games and better players it plays,the better it gets.
+
+
 ## 
-[watch video here ](https://www.youtube.com/watch?v=cln-G8venxc&feature=em-share_video_user)
+[Click here for a DEMO...... ](https://www.youtube.com/watch?v=cln-G8venxc&feature=em-share_video_user)
 
 ---
 
 ![screengrab](screengrab.png?raw=true "screengrab")
 ---
-##
-
-The game has a  simple AI based on the computer recording human moves as it plays. So the computer gets better at the game as it plays more games.
 
 ---
 
