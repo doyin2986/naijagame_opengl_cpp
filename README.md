@@ -1,6 +1,6 @@
 #  Naija Game
 
-'Naija Game' is a pice of work I embarked on create a game we commonly play in Niaja while growing up. Also, I have been try to refresh my C++ and OpenGL knowledge, so I thought I'd write a 'game' .
+'Naija Game' is a piece of work I embarked on create a game we commonly play in Niaja while growing up. Also, I have been try to refresh my C++ and OpenGL knowledge, so I thought I'd write a 'game' .
 
 ---
 
